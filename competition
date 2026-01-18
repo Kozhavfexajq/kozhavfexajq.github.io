@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>I'm a page, and you're the title!</title>
+  <style>
+    h1 {
+      font-size: 60;
+      text-align: center;
+    }
+    h2 {
+      font-size: 30;
+      text-align: center;
+    }
+    p {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Classical Piano Competition</h1>
+  <h2>About</h2>
+  <p>This is Kozhavfexajq's first Classical Piano Competition. <br>A composition competition of Classical piano. <br><br>Once the competition gets enough participants, Brackets will be released on this website. <br>Brackets will be randomized. <br><br>There will be a deadline for each round of the competition, and the scores are due at 23:59 UCT on that day. <br>2 days after the deadline, the next round of the competition will be released. <br><br>Join: [LINK_SOON]</p>
+  <h2>Brackets</h2>
+  <p>Coming soon...</p>
+  <h2>Submitting your score</h2>
+  <p>Coming soon...</p>
+  <h2>Round I: </h2>
+  <p>Coming soon...</p>
+</body>
