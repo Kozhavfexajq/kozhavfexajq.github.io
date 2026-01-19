@@ -3,6 +3,9 @@
 <head>
   <title>Piano Étude Ideas</title>
   <style>
+    html {
+      scroll-behavior: smooth;
+    }
     body {
       background-color: #E7D49E;
       color: #574615;
@@ -33,18 +36,22 @@
     }
     ul {
       list-style-position: inside;
-      margin-left: 300px;
       justify-content: center;
     }
     li {
       list-style-position: inside;
-      margin-left: 300px;
+      margin-left: 240px;
       justify-content: center;
     }
     .con {
       width: 200px;
       height: 300px;
-      justify-content: center;
+      position: fixed; 
+      z-index: 1; 
+      top: 0; 
+      left: 0; 
+      overflow-x: hidden; 
+      padding-top: 20px;
     }
   </style>
 </head>
